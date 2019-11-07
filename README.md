@@ -1,4 +1,4 @@
-# eng_chatbot
+# tells synonyms and rhyming words
 a simple chatbot for based on whatsapp ui
 join with code join number-child to +1 415 523 8886.
 mainly reply to query like
