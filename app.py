@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello, from ngrok!"
+    return "Hello, You've reached the root route"
 
 @app.route("/sms", methods=['POST'])
 def sms_reply():
